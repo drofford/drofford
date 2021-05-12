@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drofford
 - 👀 I’m interested in Python and Java programming
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Rust
 - 💞️ I’m not currently looking to collaborate on anything
 - 📫 Email me at drofford@icloud.com
 
