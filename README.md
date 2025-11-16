@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drofford
-- 👀 I’m interested in Python and Java programming
+- 👀 I’m interested in Python, Go, and Java programming
 - 🌱 I've given up learning Rust
 - 💞️ I’m not currently looking to collaborate on anything
 - 📫 Email me at drofford@icloud.com
